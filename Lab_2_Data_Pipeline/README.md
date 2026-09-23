@@ -2,7 +2,7 @@
 
 See how a GraphRAG data pipeline turns raw filing text into a searchable knowledge graph. One notebook walks through chunking, embedding generation, graph construction, and semantic search using SEC 10-K financial filing data.
 
-> **Run this in Amazon SageMaker AI.** These notebooks are designed to run in Amazon SageMaker AI Studio. Running them locally (e.g. VS Code) or elsewhere is not supported and will fail. Follow the [Environment Setup guide](https://neo4j-partners.github.io/neo4j-bedrock-graphrag-workshop/workshop/neo4j-bedrock-graphrag-workshop/1.0/part2-setup-instructions.html) to launch SageMaker AI Studio first.
+> **Run this in Amazon SageMaker AI.** These notebooks are designed to run in Amazon SageMaker AI Studio. Running them locally (e.g. VS Code) or elsewhere is not supported and will fail. Follow the [Environment Setup guide](https://neo4j-partners.github.io/neo4j-sec-filings-graphrag-workshop/workshop/neo4j-sec-filings-graphrag-workshop/1.0/part2-setup-instructions.html) to launch SageMaker AI Studio first.
 
 **This lab is optional.** Lab 1 already loaded the complete knowledge graph, so every downstream lab is ready without it. Lab 2 exists to show *how* that pipeline works.
 
@@ -23,7 +23,7 @@ Before starting this lab, make sure you have:
 
 - Completed **Lab 1** (Neo4j Aura instance created and the knowledge graph loaded)
 - Filled in your credentials in `CONFIG.txt` at the project root
-- A running Amazon SageMaker AI Studio environment (see [Part 2 Setup Instructions](https://neo4j-partners.github.io/neo4j-bedrock-graphrag-workshop/workshop/neo4j-bedrock-graphrag-workshop/1.0/part2-setup-instructions.html))
+- A running Amazon SageMaker AI Studio environment (see [Part 2 Setup Instructions](https://neo4j-partners.github.io/neo4j-sec-filings-graphrag-workshop/workshop/neo4j-sec-filings-graphrag-workshop/1.0/part2-setup-instructions.html))
 
 ## Notebook
 

@@ -6,7 +6,7 @@ Neo4j Aura instance and Amazon Titan Text Embeddings V2 (`amazon.titan-embed-tex
 labs, storing `Conversation`, `Message`, `Entity`, `Fact`, and `Preference` nodes alongside the SEC 10-K
 knowledge graph.
 
-> **Run this in Amazon SageMaker AI.** These notebooks are designed to run in Amazon SageMaker AI Studio. Running them locally (e.g. VS Code) or elsewhere is not supported and will fail. Follow the [Environment Setup guide](https://neo4j-partners.github.io/neo4j-bedrock-graphrag-workshop/workshop/neo4j-bedrock-graphrag-workshop/1.0/part2-setup-instructions.html) to launch SageMaker AI Studio first.
+> **Run this in Amazon SageMaker AI.** These notebooks are designed to run in Amazon SageMaker AI Studio. Running them locally (e.g. VS Code) or elsewhere is not supported and will fail. Follow the [Environment Setup guide](https://neo4j-partners.github.io/neo4j-sec-filings-graphrag-workshop/workshop/neo4j-sec-filings-graphrag-workshop/1.0/part2-setup-instructions.html) to launch SageMaker AI Studio first.
 
 ## Notebooks
 

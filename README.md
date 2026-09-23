@@ -1,6 +1,6 @@
 # Neo4j and AWS Bedrock GraphRAG Workshop
 
-**[View the full workshop guide](https://neo4j-partners.github.io/neo4j-bedrock-graphrag-workshop)**
+**[View the full workshop guide](https://neo4j-partners.github.io/neo4j-sec-filings-graphrag-workshop)**
 
 A hands-on workshop teaching Graph Retrieval-Augmented Generation (GraphRAG) patterns using Neo4j Aura and Amazon Bedrock. You will build and query a knowledge graph of SEC 10-K financial filings, then connect AI agents that retrieve structured and unstructured data to answer questions about companies, risk factors, and institutional ownership.
 
@@ -48,13 +48,13 @@ A hands-on workshop teaching Graph Retrieval-Augmented Generation (GraphRAG) pat
 
 ### Option 1: AWS SageMaker Studio (Recommended for workshops)
 
-Follow the [Environment Setup: SageMaker Studio](https://neo4j-partners.github.io/neo4j-bedrock-graphrag-workshop/workshop/neo4j-bedrock-graphrag-workshop/1.0/part2-setup-instructions.html) guide to create a SageMaker Studio domain, launch JupyterLab, and clone the repository.
+Follow the [Environment Setup: SageMaker Studio](https://neo4j-partners.github.io/neo4j-sec-filings-graphrag-workshop/workshop/neo4j-sec-filings-graphrag-workshop/1.0/part2-setup-instructions.html) guide to create a SageMaker Studio domain, launch JupyterLab, and clone the repository.
 
 ### Option 2: Local Development
 
 ```bash
-git clone https://github.com/neo4j-partners/neo4j-bedrock-graphrag-workshop.git
-cd neo4j-bedrock-graphrag-workshop
+git clone https://github.com/neo4j-partners/neo4j-sec-filings-graphrag-workshop.git
+cd neo4j-sec-filings-graphrag-workshop
 
 # Copy and fill in your credentials
 cp CONFIG.txt CONFIG.txt.local
@@ -109,7 +109,7 @@ User Query
 ## Contributing
 
 We welcome contributions! To report bugs or suggest improvements, open an issue at:
-https://github.com/neo4j-partners/neo4j-bedrock-graphrag-workshop/issues
+https://github.com/neo4j-partners/neo4j-sec-filings-graphrag-workshop/issues
 
 ## License
 

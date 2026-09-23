@@ -70,7 +70,7 @@ image::lab3-open-space.png[JupyterLab spaces list showing Running status and spa
 2. If a **Clone a Repository** button is visible, click it and enter the repository URL:
 +
 ----
-https://github.com/neo4j-partners/neo4j-bedrock-graphrag-workshop.git
+https://github.com/neo4j-partners/neo4j-sec-filings-graphrag-workshop.git
 ----
 +
 If the clone button is not available, open a terminal instead:
@@ -83,16 +83,16 @@ b. Run these commands to clone the repository:
 +
 [source,bash]
 ----
-git clone https://github.com/neo4j-partners/neo4j-bedrock-graphrag-workshop.git
+git clone https://github.com/neo4j-partners/neo4j-sec-filings-graphrag-workshop.git
 ----
 +
-3. Once the clone completes, click the **file browser icon** (folder icon) in the left sidebar to navigate into the `neo4j-bedrock-graphrag-workshop` directory
+3. Once the clone completes, click the **file browser icon** (folder icon) in the left sidebar to navigate into the `neo4j-sec-filings-graphrag-workshop` directory
 
 === Step 8: Configure CONFIG.txt with Your Neo4j Credentials
 
 The repository includes a `CONFIG.txt` file at its root with placeholder values. The notebooks read your Neo4j connection details from this file, so you must fill it in before running any lab.
 
-1. In the JupyterLab file browser, open `CONFIG.txt` in the `neo4j-bedrock-graphrag-workshop` directory
+1. In the JupyterLab file browser, open `CONFIG.txt` in the `neo4j-sec-filings-graphrag-workshop` directory
 2. Replace the placeholder values with the Neo4j credentials you saved in Lab 1:
 +
 [source,text]

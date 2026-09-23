@@ -32,7 +32,7 @@ only reason the install works.
 Step 0 of `lab-01-verify-environment.ipynb`:
 
 ```python
-%pip install --quiet "https://github.com/neo4j-partners/neo4j-bedrock-graphrag-workshop/archive/refs/heads/main.zip#subdirectory=staging"
+%pip install --quiet "https://github.com/neo4j-partners/neo4j-sec-filings-graphrag-workshop/archive/refs/heads/main.zip#subdirectory=staging"
 ```
 
 `#subdirectory=staging` points pip at this directory's `pyproject.toml` rather
@@ -63,7 +63,7 @@ settles for a cohort, tag it and pin the tag, so a push mid-class cannot change
 what a student installs:
 
 ```
-https://github.com/neo4j-partners/neo4j-bedrock-graphrag-workshop/archive/refs/tags/lab-v1.zip#subdirectory=staging
+https://github.com/neo4j-partners/neo4j-sec-filings-graphrag-workshop/archive/refs/tags/lab-v1.zip#subdirectory=staging
 ```
 
 A commit SHA works the same way. GitHub caches a branch archive briefly, so a

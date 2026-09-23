@@ -1,6 +1,6 @@
 # Neo4j + AWS Bedrock Workshop Site
 
-**Live site:** https://neo4j-partners.github.io/neo4j-bedrock-graphrag-workshop
+**Live site:** https://neo4j-partners.github.io/neo4j-sec-filings-graphrag-workshop
 
 ## Running locally
 

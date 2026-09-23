@@ -62,4 +62,4 @@ Add an evaluation loop before putting a GraphRAG system in front of users. Assem
 
 == Keep Building
 
-Revisit the xref:slides.adoc[workshop slides] for the concepts behind each part, or explore the xref:appendix-agent.adoc[agent fundamentals appendix] for a deeper look at how Strands agents reason. The full workshop source lives at https://github.com/neo4j-partners/neo4j-bedrock-graphrag-workshop[neo4j-partners/neo4j-bedrock-graphrag-workshop].
+Revisit the xref:slides.adoc[workshop slides] for the concepts behind each part, or explore the xref:appendix-agent.adoc[agent fundamentals appendix] for a deeper look at how Strands agents reason. The full workshop source lives at https://github.com/neo4j-partners/neo4j-sec-filings-graphrag-workshop[neo4j-partners/neo4j-sec-filings-graphrag-workshop].
